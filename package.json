@@ -1,0 +1,16 @@
+{
+  "name": "next.js-playground",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "dev": "./node_modules/.bin/next",
+    "build": "./node_modules/.bin/next build",
+    "start": "./node_modules/.bin/next start"
+  },
+  "author": "Rafał Krupiński",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^1.0.2"
+  }
+}
